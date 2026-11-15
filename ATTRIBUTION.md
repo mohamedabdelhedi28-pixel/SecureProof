@@ -44,7 +44,7 @@ L'utilisation de l'IA est limitée à l'assistance à la réflexion, à la relec
 | Composant / Phase | IA utilisée (Nom/Version) | Pourcentage estimé de contenu généré | Rôle précis de l'IA & Prompts clés utilisés |
 |---|---|---:|---|
 | Phase 1 : Exigences (SRE) | Claude | 30 % | Relecture critique du cahier des charges. |
-| Phase 2 : Threat Modelling | En cours | En cours | En cours |
+| Phase 2 : Threat Modelling | ChatGPT (GPT-6) | 50% | Assistance à la modélisation des menaces STRIDE, à l'analyse des risques OWASP et à la conception de l'architecture sécurisée.|
 | Développement Backend | Non utilisé à ce stade | 0 % | Aucun recours à l'IA pour cette partie à ce stade. |
 | Développement Frontend | Non utilisé à ce stade | 0 % | Aucun recours à l'IA pour cette partie à ce stade. |
 | Moteur de Dissimulation | Non utilisé à ce stade | 0 % | Aucun recours à l'IA pour cette partie à ce stade. |
@@ -53,6 +53,9 @@ L'utilisation de l'IA est limitée à l'assistance à la réflexion, à la relec
 
 > Nous avons écrit le cahier des charges de SecureProof, une application PWA/SPA développée avec Jakarta EE 11. Joue le rôle d'un examinateur critique et interroge-nous pour faire ressortir les zones floues, les suppositions sans justification et les contradictions possibles entre le chiffrement, la stéganographie, le watermarking et le fingerprinting.
 
+### 3.3. Prompt clé utilisé durant la Phase 2
+
+> Analyse la conception de SecureProof, une application PWA/SPA basée sur Jakarta EE 11, WildFly 42 et Java 25. Examine les menaces spécifiques à son architecture et à ses mécanismes de stéganographie, watermarking et fingerprinting. Propose une modélisation STRIDE contextualisée, des contre-mesures techniques, une évaluation des risques selon OWASP Risk Rating et des recommandations pour renforcer l'architecture sécurisée.
 ---
 
 ## 4. Signatures des membres

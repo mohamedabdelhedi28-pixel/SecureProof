@@ -12,3 +12,4 @@ Jakarta EE 11 · WildFly 42 · Java 25 · React + TypeScript (PWA/SPA)
 ## Documents
 - [Cahier des charges](docs/cahier_des_charges.pdf)
 - [Recueil des besoins](docs/recueil_des_besoins.pdf)
+- [Cahier conceptuel](docs/cahier_conceptuel.pdf)

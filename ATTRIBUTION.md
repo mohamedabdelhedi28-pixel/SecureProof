@@ -19,7 +19,7 @@
 
 3. **IBEN ROMDHANE Rayen**
    - Email : rayen.ibenromdhane@supcom.tn
-   - Rôle principal : Expert Modélisation des menaces
+   - Rôle principal : Frontend PWA React, pipeline CI/CD SecDevOps, déploiement WildFly, tests transversaux
 
 ---
 
@@ -45,6 +45,7 @@ L'utilisation de l'IA est limitée à l'assistance à la réflexion, à la relec
 |---|---|---:|---|
 | Phase 1 : Exigences (SRE) | Claude | 30 % | Relecture critique du cahier des charges. |
 | Phase 2 : Threat Modelling | ChatGPT (GPT-6) | 50% | Assistance à la modélisation des menaces STRIDE, à l'analyse des risques OWASP et à la conception de l'architecture sécurisée.|
+| Phase 3 : Amorçage CI/CD & Squelette | Claude Sonnet 4.6 | 25 % | Structuration Maven multi-modules Java 25, workflow GitHub Actions (Gitleaks + test d'architecture), scripts WildFly CLI et squelette Vite/React/TypeScript. |
 | Développement Backend | Non utilisé à ce stade | 0 % | Aucun recours à l'IA pour cette partie à ce stade. |
 | Développement Frontend | Non utilisé à ce stade | 0 % | Aucun recours à l'IA pour cette partie à ce stade. |
 | Moteur de Dissimulation | Non utilisé à ce stade | 0 % | Aucun recours à l'IA pour cette partie à ce stade. |
